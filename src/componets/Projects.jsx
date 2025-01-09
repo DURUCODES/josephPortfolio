@@ -26,7 +26,7 @@ const experienceData = [
   {
     title: "Compliance Analyst",
     company: "LGC Group – Vaughan",
-    date: "Aug 2024 to Present",
+    date: "Nov 2023 to May 2024",
     description: [
       "Coordinated the review and update of Global Compliance documents, managing the review and feedback process to ensure accuracy and completeness.",
       "Led the annual refresh of the legal, Regulatory Compliance (including Financial Crime) Risk Appetite statement, ensuring alignment with current regulatory standards.",
@@ -47,7 +47,7 @@ const experienceData = [
   {
     title: "Risk Analyst",
     company: "Summer Fresh Salads – Vaughan",
-    date: "Nov 2023 – May 2024",
+    date: "Jul 2019 – june 2023",
     description: [
       "Engineered an innovative credit risk model that improved loan approval accuracy by 25%, directly impacting the bottom line through reduced defaults.",
       "Deployed a risk-based pricing strategy for new product lines, contributing to a 15% increase in market share by attracting high-quality customers.",
