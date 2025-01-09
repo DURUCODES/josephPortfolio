@@ -93,15 +93,23 @@ const ProfileComponet = () => {
           </div>
 
           <div className="flex items-center my-4">
-            <span
+            <a
+              href="https://www.linkedin.com/in/nwosu-joseph-chika-006340301/"
+              target="_blank"
+              rel="noopener noreferrer"
               className=" p-1  rounded mr-2"
               style={{ backgroundColor: "#202022", color: "#fbbf24" }}
             >
               <CiLinkedin className="text-2xl" />
-            </span>
+            </a>
             <div>
               <p className="text-gray-500 font-semibold text-sm">linkedin</p>
-              <a className="text-xs cursor-pointer text-white">
+              <a
+                className="text-xs cursor-pointer text-white"
+                href="https://www.linkedin.com/in/nwosu-joseph-chika-006340301/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 Nwosu Joseph Chika
               </a>
             </div>

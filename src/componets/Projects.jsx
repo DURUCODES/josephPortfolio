@@ -2,6 +2,28 @@ import React from "react";
 
 const experienceData = [
   {
+    title: "Third-Party Risk Analyst",
+    company: "LGC Group – Vaughan",
+    date: "Aug 2024 to Present",
+    description: [
+      "Applied third-party risk management best practices throughout the lifecycle of vendor relationships, ensuring compliance with industry frameworks, policies, and standards.",
+      "Led third-party due diligence efforts, ensuring vendors adhered to security protocols and collaborated with internal stakeholders to mitigate risks.",
+      "Participated in vendor evaluations and meetings, contributing to the selection process and supporting informed decision-making to minimize risks.",
+      "Directed the implementation of encryption protocols for data in transit and at rest, achieving 100% compliance with global data protection regulations.",
+      "Handled vendor escalations, identifying issues early, and tracking trends to mitigate risks as per Third-Party Risk Management (TPRM) guidelines.",
+      "Issued, tracked, and logged non-conformance reports and Change Order requests, maintaining compliance and operational efficiency across vendor relationships.",
+      "Contributed to the development and implementation of SLAs, SLOs, and KPIs, aligning them with business objectives to improve service delivery and mitigate risks.",
+    ],
+    tools: [
+      "Third-Party Risk Management (TPRM)",
+      "Vendor Risk Assessments",
+      "Data Encryption Protocols",
+      "Risk Mitigation Strategies",
+      "SLA, SLO, KPI Development",
+      "Compliance Standards",
+    ],
+  },
+  {
     title: "Compliance Analyst",
     company: "LGC Group – Vaughan",
     date: "Aug 2024 to Present",
