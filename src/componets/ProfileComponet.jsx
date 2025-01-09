@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import mypic from "../assets/image/chika.jpeg";
 import { CiMail } from "react-icons/ci";
 import { CiLinkedin } from "react-icons/ci";
-
+import { MdLocationPin } from "react-icons/md";
 import { IoMdArrowDropdown } from "react-icons/io";
 import { FcPhone } from "react-icons/fc";
 const ProfileComponet = () => {
@@ -74,6 +74,21 @@ const ProfileComponet = () => {
               <span className="text-xs cursor-pointer text-white">
                 +(1) 647 674 3745
               </span>
+            </div>
+          </div>
+
+          <div className="flex items-center my-4">
+            <span
+              className=" p-1  rounded mr-2"
+              style={{ backgroundColor: "#202022", color: "#fbbf24" }}
+            >
+              <MdLocationPin className="text-2xl" />
+            </span>
+            <div>
+              <p className="text-gray-500 font-semibold text-sm">address</p>
+              <a className="text-xs cursor-pointer text-white">
+                Brampton, Ontario, Canada
+              </a>
             </div>
           </div>
 
