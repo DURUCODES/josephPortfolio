@@ -78,9 +78,7 @@ const Projects = () => {
               <h3 className="text-white text-[25px] my-2">
                 {experience.title}
               </h3>
-              <h3 className="text-yellow-400 text-sm">
-                Date: {experience.date}
-              </h3>
+              <h3 className="text-yellow-400 text-sm"></h3>
             </div>
 
             {/* Company and Responsibilities */}

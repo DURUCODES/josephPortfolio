@@ -36,7 +36,7 @@ const Resume = () => {
               download="NwosujosephChikaResumeGRC.pdf"
             >
               {" "}
-              view resume
+              View resume
             </a>
           </button>
         </div>
