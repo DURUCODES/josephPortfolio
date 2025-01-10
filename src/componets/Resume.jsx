@@ -31,7 +31,13 @@ const Resume = () => {
       <div className="max-w-4xl mx-auto space-y-8">
         <div className="text-center">
           <button className="bg-white border border-black text-[16px]  text-black font-bold py-2 px-4 rounded-lg hover:bg-blue-600 transition ease-in-out duration-300">
-            View Resume
+            <a
+              href="NwosujosephChikaResumeGRC.pdf"
+              download="NwosujosephChikaResumeGRC.pdf"
+            >
+              {" "}
+              view resume
+            </a>
           </button>
         </div>
 
